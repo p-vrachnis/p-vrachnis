@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/p-vrachnis/test/blob/main/banner2.png?raw=true)
+![MasterHead](https://github.com/p-vrachnis/images/blob/main/banner2.png?raw=true)
 
 ## About Me
 - 👀 I’m interested in Security, DevOps and Python development
@@ -35,13 +35,13 @@
  />
 <img align="left" alt = "Git" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
  />
- <img align="left" alt = "New Relic" width = "26px" src="https://github.com/p-vrachnis/test/blob/main/index2.png?raw=true"
+ <img align="left" alt = "New Relic" width = "26px" src="https://github.com/p-vrachnis/images/blob/main/new relic.png?raw=true"
  />
- <img align="left" alt = "Splunk" width = "26px" src="https://github.com/p-vrachnis/test/blob/main/index.jpeg?raw=true"
+ <img align="left" alt = "Splunk" width = "26px" src="https://github.com/p-vrachnis/images/blob/main/splunk.jpeg?raw=true"
  />
- <img align="left" alt = "Jira" width = "26px" src="https://github.com/p-vrachnis/test/blob/main/index5.png?raw=true"
+ <img align="left" alt = "Jira" width = "44px" src="https://github.com/p-vrachnis/images/blob/main/jira.png?raw=true"
  />
- <img align="left" alt = "Jira" width = "26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
+ <img align="left" alt = "Bash" width = "26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
  />
  <img align="left" alt = "Terminal" width = "26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"
  />
@@ -53,10 +53,7 @@
  />
 <img align="left" alt = "Windows" width = "26px" src=  "https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"
  />
- 
 
-<img align="left" alt = "Windows" width = "50px" src=  "https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh"
- />
 
 
  
