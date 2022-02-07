@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/p-vrachnis/images/blob/main/banner2.png?raw=true)
 
 ## About Me
-- 👀 I’m interested in Security, DevOps and Python development
+- 👀 I’m interested in Cloud, Security, DevOps and Python development
 - 🌱 I’m currently learning Penetration Testing 
 - I speak 🇬🇷 and 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - Inerests :basketball: :cinema: 🐶 :computer: 
