@@ -41,6 +41,8 @@
  />
  <img align="left" alt = "Jira" width = "44px" src="https://github.com/p-vrachnis/images/blob/main/jira.png?raw=true"
  />
+  <img align="left" alt = "Docker" width = "44px" src=  "https://github.com/p-vrachnis/images/blob/main/docker.png?raw=true"
+ />
  <img align="left" alt = "Bash" width = "26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
  />
  <img align="left" alt = "Terminal" width = "26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"
@@ -57,6 +59,7 @@
  />
  <img align="left" alt = "Aws" width = "44px" src=  "https://github.com/p-vrachnis/images/blob/main/aws.png?raw=true"
  />
+ 
 
 
 
