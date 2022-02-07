@@ -31,6 +31,12 @@
  />
 <img align="left" alt = "C#" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
  />
+ <img align="left" alt = "C++" width = "26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"
+ />
+ <img align="left" alt = "Java" width = "26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"
+ />
+ <img align="left" alt = "Go" width = "50px" src="https://github.com/p-vrachnis/images/blob/main/golang.png?raw=true"
+ />
 <img align="left" alt = "SQL" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
  />
 <img align="left" alt = "Git" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
@@ -43,10 +49,10 @@
  />
   <img align="left" alt = "Docker" width = "30px" src=  "https://github.com/p-vrachnis/images/blob/main/docker.png?raw=true"
  />
- <img align="left" alt = "Bash" width = "26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
- />
- <img align="left" alt = "Terminal" width = "26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"
- />
+<!--  <img align="left" alt = "Bash" width = "26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
+ /> -->
+<!--  <img align="left" alt = "Terminal" width = "26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"
+ /> -->
 <img align="left" alt = "MySQL" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
  /> 
 <img align="left" alt = "Wordpress" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"
