@@ -53,9 +53,9 @@
  />
 <img align="left" alt = "Windows" width = "26px" src=  "https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"
  />
- <img align="left" alt = "Azure" width = "26px" src=  "https://github.com/p-vrachnis/images/blob/main/Azure.png?raw=true"
+ <img align="left" alt = "Azure" width = "56px" src=  "https://github.com/p-vrachnis/images/blob/main/Azure.png?raw=true"
  />
- <img align="left" alt = "Aws" width = "26px" src=  "https://github.com/p-vrachnis/images/blob/main/aws.png?raw=true"
+ <img align="left" alt = "Aws" width = "44px" src=  "https://github.com/p-vrachnis/images/blob/main/aws.png?raw=true"
  />
 
 
