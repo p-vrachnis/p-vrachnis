@@ -20,7 +20,6 @@
 🏢 Citrix,  01/09/21 - 16/12/21
 - Software Engineer I, Cloud services
 
-🇬🇷 Hellenic Army Communication Center of Ioannina, 11/21 - 08/21
 
 ### Languages and Tools
 <img align="left" alt = "Python" width = "26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
