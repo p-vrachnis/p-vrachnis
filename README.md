@@ -17,6 +17,13 @@
 - Computer Engineering and Information Department, University of Patras
 
 ### Work Experience
+🏢 Intracom-Telecom,  03/03/22 - Current
+- Junior DevOps Engineer
+
+💻 🐍 Freelancing,  01/01/22 - Current
+- Wordpress Developer, Administrator
+- Python Automation, Scripting, Infrastructure
+
 🏢 Citrix,  01/09/21 - 16/12/21
 - Software Engineer I, Cloud services
 
