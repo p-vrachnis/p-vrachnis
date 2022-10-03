@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/p-vrachnis/images/blob/main/banner2.png?raw=true)
+
 
 ## About Me
 - I’m interested in ☁️, security, 🐍 and automation
