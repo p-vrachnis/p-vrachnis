@@ -15,7 +15,7 @@
 - Computer Engineering and Information Department, University of Patras
 
 ### Work Experience
-🏢 Intracom-Telecom,  03/03/22 - Current
+🏢 Intracom-Telecom,  03/03/22 - 01/03/23
 - Junior DevOps Engineer
 
 🏢 Citrix,  01/09/21 - 16/12/21
