@@ -15,6 +15,9 @@
 - Computer Engineering and Information Department, University of Patras
 
 ### Work Experience
+🏢 Self employed 01/03/23 - Current
+- SRE- DevOps - Kubernetes Admin
+  
 🏢 Intracom-Telecom,  03/03/22 - 01/03/23
 - Junior DevOps Engineer
 
